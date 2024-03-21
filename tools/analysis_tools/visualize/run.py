@@ -1,3 +1,6 @@
+import sys
+sys.path.append("/home/robot/wangjia/projects/UniAD")
+
 import cv2
 import torch
 import argparse
